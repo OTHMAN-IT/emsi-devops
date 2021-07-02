@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # SSH connection using a private key
-ssh -i ~/.ssh/holberton ubuntu@35.237.31.39
+ssh -i ~/.ssh/holberton ubuntu@35.243.233.181
 
 
