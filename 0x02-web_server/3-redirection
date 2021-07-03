@@ -10,7 +10,7 @@ printf %s "server {
   index   index.html index.htm;
 
   location /redirect_me {
-    return 301 http://github.com/prohence;
+    return 301 http://github.com/OTHMAN-IT;
   }
 }
 " >/etc/nginx/sites-available/default
